@@ -16,6 +16,7 @@ inputLines.forEach(line => {
             if (!isNaN(commaSplit[i])) {
                 if (commaSplit[i + 1] == "blue" || commaSplit[i + 1] == "red" || commaSplit[i + 1] == "green") {
                     console.log("");
+                    //IM A FUCKING COMMENT LOL
                 }
             }
         }
